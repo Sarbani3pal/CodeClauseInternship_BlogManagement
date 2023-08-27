@@ -19,7 +19,7 @@ Blog management involves overseeing and maintaining a blog to ensure its smooth 
 - ![mongo4](https://github.com/Sarbani3pal/CodeClauseInternship_BlogManagement/assets/106859451/286537be-936d-49c5-9193-296d42330e76)
 - ![mongo5](https://github.com/Sarbani3pal/CodeClauseInternship_BlogManagement/assets/106859451/8fb6abc1-89b1-4c82-9afc-8a8d656f2fbb)
 - ![mongo6](https://github.com/Sarbani3pal/CodeClauseInternship_BlogManagement/assets/106859451/aed5fc48-258a-4959-a7a7-cebf66dd02bb)
-
+<a href="https://iconscout.com/icons/mongodb" target="_blank">Free Mongodb Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
 ## Features
 
 **User Authentication:** Implemented user registration, login, and logout functionality to secure the blog management system. This feature allows users to create accounts, log in to access their personalized features, and ensure appropriate access control.
