@@ -13,9 +13,6 @@ Blog management involves overseeing and maintaining a blog to ensure its smooth 
 - ![HTML](https://img.shields.io/badge/HTML-Code-orange?style=flat-square&logo=html5)
 - ![CSS](https://img.shields.io/badge/CSS-Styles-blue?style=flat-square&logo=css3)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow?style=flat-square&logo=javascript)
-- 
-
-
 - ![mongo2](https://github.com/Sarbani3pal/CodeClauseInternship_BlogManagement/assets/106859451/c00095c9-b2fd-49de-a865-9f10ac220fbc)
 - ![mongo3](https://github.com/Sarbani3pal/CodeClauseInternship_BlogManagement/assets/106859451/ff9ad147-398a-4547-839b-02fddcd2cc78)
 - ![mongo4](https://github.com/Sarbani3pal/CodeClauseInternship_BlogManagement/assets/106859451/286537be-936d-49c5-9193-296d42330e76)
