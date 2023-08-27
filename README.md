@@ -1,4 +1,4 @@
-![mongo](https://github.com/Sarbani3pal/CodeClauseInternship_BlogManagement/assets/106859451/4dcf5623-f54a-4671-b0d4-d589077601c6)# CodeClauseInternship_BlogManagement
+# CodeClauseInternship_BlogManagement
 
 <p align="center">
   Welcome to Blog Management - Solves problem to streamline content creation, organization, user management, SEO optimization, and analytics, improving efficiency and effectiveness.
